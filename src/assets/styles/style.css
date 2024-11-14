@@ -1,0 +1,25 @@
+/* --- GENERAL --- */
+@import "general.css";
+
+/* --- FONTS --- */
+@import "fonts.css";
+
+/* --- COMPONENTS --- */
+@import "./components/form.css";
+@import "./components/button.css";
+@import './components/menu.css';
+@import "./components/header.css";
+
+/* --- PAGE PARTS --- */
+@import "./parts/main-banner.css";
+@import "./parts/discussing-project.css";
+@import "./parts/development-cycle.css";
+@import "./parts/development-stages.css";
+@import "./parts/get-book.css";
+@import "./parts/projects.css";
+@import "./parts/our-team.css";
+@import "./parts/faq.css";
+@import "./parts/footer.css";
+
+/* --- ICONS --- */
+@import 'icons.css';
